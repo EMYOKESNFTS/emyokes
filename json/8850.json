@@ -1,0 +1,39 @@
+{
+  "dna": "5f8d8c4d9fb8240afc1713a850448bb6fbfcf43d",
+  "name": "EM YOKES NFTs #8850",
+  "description": "EM YOKES NFTs",
+  "image": "https://raw.githubusercontent.com/EMYOKESNFTS/emyokes/main/png/8850.png",
+  "edition": 8850,
+  "date": 1645413541877,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pureblue_background"
+    },
+    {
+      "trait_type": "body colour",
+      "value": "brightred"
+    },
+    {
+      "trait_type": "body",
+      "value": "body"
+    },
+    {
+      "trait_type": "face",
+      "value": "sad"
+    },
+    {
+      "trait_type": "hat",
+      "value": "lougie"
+    },
+    {
+      "trait_type": "items",
+      "value": "wand"
+    },
+    {
+      "trait_type": "paint",
+      "value": "pink"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

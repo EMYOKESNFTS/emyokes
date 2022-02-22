@@ -1,0 +1,39 @@
+{
+  "dna": "2506175ee1fe2d0cdd82cd221547452ebae64859",
+  "name": "EM YOKES NFTs #610",
+  "description": "EM YOKES NFTs",
+  "image": "https://raw.githubusercontent.com/EMYOKESNFTS/emyokes/main/png/610.png",
+  "edition": 610,
+  "date": 1645412435449,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "purpleblack"
+    },
+    {
+      "trait_type": "body colour",
+      "value": "wine"
+    },
+    {
+      "trait_type": "body",
+      "value": "body"
+    },
+    {
+      "trait_type": "face",
+      "value": "sad"
+    },
+    {
+      "trait_type": "hat",
+      "value": "helicopter"
+    },
+    {
+      "trait_type": "items",
+      "value": "bong1"
+    },
+    {
+      "trait_type": "paint",
+      "value": "green"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

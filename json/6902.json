@@ -1,0 +1,39 @@
+{
+  "dna": "7589ccf8b55fe9e2fb90e69da5ed5b0cb3c42578",
+  "name": "EM YOKES NFTs #6902",
+  "description": "EM YOKES NFTs",
+  "image": "https://raw.githubusercontent.com/EMYOKESNFTS/emyokes/main/png/6902.png",
+  "edition": 6902,
+  "date": 1645413300639,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "puremeganeta_background"
+    },
+    {
+      "trait_type": "body colour",
+      "value": "lightblue"
+    },
+    {
+      "trait_type": "body",
+      "value": "body"
+    },
+    {
+      "trait_type": "face",
+      "value": "tears"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "items",
+      "value": "bong1"
+    },
+    {
+      "trait_type": "paint",
+      "value": "none"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

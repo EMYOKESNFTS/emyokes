@@ -1,0 +1,39 @@
+{
+  "dna": "df4e86c4bee56176e4007db12e90aa61cdbe3015",
+  "name": "EM YOKES NFTs #380",
+  "description": "EM YOKES NFTs",
+  "image": "https://raw.githubusercontent.com/EMYOKESNFTS/emyokes/main/png/380.png",
+  "edition": 380,
+  "date": 1645412413973,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pastlegreen_background"
+    },
+    {
+      "trait_type": "body colour",
+      "value": "wine"
+    },
+    {
+      "trait_type": "body",
+      "value": "body"
+    },
+    {
+      "trait_type": "face",
+      "value": "smile1"
+    },
+    {
+      "trait_type": "hat",
+      "value": "helicopter"
+    },
+    {
+      "trait_type": "items",
+      "value": "none"
+    },
+    {
+      "trait_type": "paint",
+      "value": "white"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "dna": "b286b888477dea6a8ade25ce8824e61430369601",
+  "name": "EM YOKES NFTs #2417",
+  "description": "EM YOKES NFTs",
+  "image": "https://raw.githubusercontent.com/EMYOKESNFTS/emyokes/main/png/2417.png",
+  "edition": 2417,
+  "date": 1645412602785,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "purpleblack"
+    },
+    {
+      "trait_type": "body colour",
+      "value": "pink"
+    },
+    {
+      "trait_type": "body",
+      "value": "body"
+    },
+    {
+      "trait_type": "face",
+      "value": "smile"
+    },
+    {
+      "trait_type": "hat",
+      "value": "cowboy"
+    },
+    {
+      "trait_type": "items",
+      "value": "wand2"
+    },
+    {
+      "trait_type": "paint",
+      "value": "pink"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

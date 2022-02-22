@@ -1,1 +1,39 @@
-{"dna":"d5ee5b0445ca636403b4d354cdd6eac660c12130","name":"#1","description":"EM YOKE'S NFT's COLLECTION","image":"https://hashlips/nft/1.png","edition":1,"date":1645412377234,"attributes":[{"trait_type":"background","value":"purered-background"},{"trait_type":"body colour","value":"lightorange"},{"trait_type":"body","value":"body"},{"trait_type":"face","value":"smile"},{"trait_type":"hat","value":"none"},{"trait_type":"items","value":"none"},{"trait_type":"paint","value":"none"}],"compiler":"HashLips Art Engine"}
+{
+  "dna": "d5ee5b0445ca636403b4d354cdd6eac660c12130",
+  "name": "EM YOKES NFTs #1",
+  "description": "EM YOKES NFTs",
+  "image": "https://raw.githubusercontent.com/EMYOKESNFTS/emyokes/main/png/1.png",
+  "edition": 1,
+  "date": 1645412377234,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "purered-background"
+    },
+    {
+      "trait_type": "body colour",
+      "value": "lightorange"
+    },
+    {
+      "trait_type": "body",
+      "value": "body"
+    },
+    {
+      "trait_type": "face",
+      "value": "smile"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "items",
+      "value": "none"
+    },
+    {
+      "trait_type": "paint",
+      "value": "none"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
